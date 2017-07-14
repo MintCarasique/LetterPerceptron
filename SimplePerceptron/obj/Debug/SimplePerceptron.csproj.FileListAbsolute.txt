@@ -1,1 +1,9 @@
 D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.exe.config
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.exe
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\bin\Debug\SimplePerceptron.pdb
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.csprojResolveAssemblyReference.cache
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.Form1.resources
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.Properties.Resources.resources
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.csproj.GenerateResource.Cache
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.exe
+D:\Documents\4 Семестр\Уроки\Perceptron\SimplePerceptron\SimplePerceptron\obj\Debug\SimplePerceptron.pdb
